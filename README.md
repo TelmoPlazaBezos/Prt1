@@ -12,7 +12,8 @@ El siguiente paso consiste en realizar un fork del repositorio, lo que crea una 
 Ejemplo ilustrativo:
 La imagen adjunta muestra un ejemplo visual del proceso de creación y fork del repositorio.
 
-![image](https://github.com/user-attachments/assets/ef4d51db-9a60-4052-896a-b3c14829f472)
+![image](https://github.com/user-attachments/assets/72cbad0f-a5cb-4d3d-a87e-320892619efa)
+
 
 Comandos básicos de Git
 Se ha incluido un archivo llamado git.pdf que contiene la explicación paso a paso de los comandos básicos para trabajar con Git.
