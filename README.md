@@ -2,7 +2,6 @@
 
 El objetivo de esta práctica es preparar al equipo del estudiante para actividades futuras, proporcionando una introducción sencilla y útil al uso de Git y GitHub.
 
-it y GitHub
 Creación de un repositorio y espacio de trabajo
 Para empezar con la práctica, es necesario crear un repositorio y vincularlo a un código fuente en el perfil personal.
 
@@ -14,10 +13,9 @@ La imagen adjunta muestra un ejemplo visual del proceso de creación y fork del 
 
 ![image](https://github.com/user-attachments/assets/72cbad0f-a5cb-4d3d-a87e-320892619efa)
 
-
 Comandos básicos de Git
 Se ha incluido un archivo llamado git.pdf que contiene la explicación paso a paso de los comandos básicos para trabajar con Git.
 
 Configuración del entorno de desarrollo en Java
-Para esta práctica, es esencial instalar software como VSCode o IntelliJ junto con Maven y Java 17. Los detalles específicos están explicados en el archivo entorno.pdf, donde también se incluyen instrucciones para verificar su funcionamiento correctamente.
+Para esta práctica, es esencial instalar software como VSCode o IntelliJ junto con Maven y Java 17. Los detalles específicos están explicados en el archivo entorno.pdf, donde también se incluyen capturas de su instalación correcta.
 
