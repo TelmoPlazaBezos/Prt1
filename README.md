@@ -22,5 +22,5 @@ Se ha incluido un archivo llamado [git.pdf](/git.pdf) que contiene la explicaci�
 
 Configuración del entorno de desarrollo en Java:
 
-Para esta práctica, es esencial instalar software como VSCode o IntelliJ junto con Maven y Java 17. Los detalles específicos están explicados en el archivo entorno.pdf, donde también se incluyen capturas de su instalación correcta.
+Para esta práctica, es esencial instalar software como VSCode o IntelliJ junto con Maven y Java 17. Los detalles específicos están explicados en el archivo [entorno.pdf](/entorno.pdf), donde también se incluyen capturas de su instalación correcta.
 
