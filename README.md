@@ -18,7 +18,7 @@ La imagen adjunta muestra un ejemplo visual del proceso de creación y fork del 
 
 Comandos básicos de Git:
 
-Se ha incluido un archivo llamado git.pdf que contiene la explicación paso a paso de los comandos básicos para trabajar con Git.
+Se ha incluido un archivo llamado [git.pdf](/git.pdf) que contiene la explicación paso a paso de los comandos básicos para trabajar con Git.
 
 Configuración del entorno de desarrollo en Java:
 
